@@ -2,6 +2,8 @@
 
 VS Code extension that analyzes your dependencies to ensure they're up to date and secure.
 
+![beholder-demo](https://cloud.githubusercontent.com/assets/5178445/20229234/ea143b20-a81a-11e6-8a63-512d7a0c8b88.gif)
+
 ## Features
 
 * Analyzes npm packages to determine if they're up to date
